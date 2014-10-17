@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gum:home|Door43 (gum)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gum|d43-gum repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gum/archive/master.zip|d43-gum.zip]]
+
+**Recent Changes**
+{{changes>ns = gum}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gum|Ethnologue data]]
+
